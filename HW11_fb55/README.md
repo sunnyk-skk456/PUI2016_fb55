@@ -1,4 +1,4 @@
-# HOMEWORK 11 Due  **Tue 29th at 11:59PM** (Notice that this is 24 later than usual) for Monday class, Wed 12/14th for Thursday class
+# HOMEWORK 11 Due  **Tue 11/29th at 11:59PM** (Notice that this is 24 later than usual) for Monday class, Wed 12/14th for Thursday class
 November 10 2016. Diversity is considered a resource that enriches us culturally and intellectually in this class. No instances of harassment or attempt to marginalize students will be tolerated in my class. If you have concerns please come talk to me
 
 
