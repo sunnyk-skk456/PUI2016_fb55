@@ -2,7 +2,7 @@
 November 10 2016. Diversity is considered a resource that enriches us culturally and intellectually in this class. No instances of harassment or attempt to marginalize students will be tolerated in my class. If you have concerns please come talk to me
 
 
-Please name your directory HW11_<netID>
+Please name your directory HW11_\<netID> (even if you are in the Wednesday cohort and this is your 12th assignment)
 
 
 IMPORTANT NOTE: on this homework on you are graded on PEP8 compliance as well!
