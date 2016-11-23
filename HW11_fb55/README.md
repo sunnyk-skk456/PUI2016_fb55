@@ -1,5 +1,6 @@
 # HOMEWORK 11
 
+THIS MAY TAKE SOME TIME FOR GETTING AND CRUNCHING DATA! DON'T START ON THE LAST DAY!
 ### Assignment 1: 
 
 Follow notebook instructions. Be careful! the geopandas dataframe for census tracks is VERY large. If you try and plot it all you are likely to crush your computer. Work only with what you need.
