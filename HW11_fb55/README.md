@@ -9,13 +9,11 @@ IMPORTANT NOTE: on this homework on you are graded on PEP8 compliance as well!
 
 Use https://github.com/fedhere/PUI2016_fb55/blob/master/PEP8MinimalRequirements.md as a guideline.
 
-ASSIGNED READING:
+## ASSIGNED READING:
 
-Don't use Hadoop - your data isn't that big
+[Don't use Hadoop - your data isn't that big](https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html), Chris Stucchio
 
-https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html
-
-Submission Info:
+### Submission Info:
 
 For Assignment 1 and 2 : work in groups as usal, and you are encouraged to work in groups. Create a HW11_ directory in your PUI2016_ repository. Include a README.md that briefly summarizes the scope of the homework (so we know you understand what you did), and states with whome you worked and what you specifically contributed to.
 
@@ -23,7 +21,7 @@ Submit Assignment 1 and 2 as notebooks. Please dont just download my notebook, l
 
 Keep in mind that we will look for possible cases of plagiarism, and if the code appears too similar to that of people that you did not work with to be original work (there are automated ways to look for plagiarism in code) you will be penalized.
 
-ASSIGNMENTS:
+## ASSIGNMENTS:
 
 
 THIS MAY TAKE SOME TIME FOR GETTING AND CRUNCHING DATA! DON'T START ON THE LAST DAY!
