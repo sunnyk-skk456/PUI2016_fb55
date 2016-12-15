@@ -2,7 +2,7 @@
 
 ## ASSIGNED READING:
 
-[Estimating the Reproducibility of Social Sciences](http://www.sciencemag.org/content/349/6251/aac4716.full.pdf) Open Science Collaboration, 2015 **Note: becauseit is a Science magazene paper, you can only access it for free from the NYU internet connection!**
+[Estimating the Reproducibility of Social Sciences](http://www.sciencemag.org/content/349/6251/aac4716.full.pdf) Open Science Collaboration, 2015 **Note: because it is a Science magazene paper, you can only access it for free from the NYU internet connection!**
 
 This is a seminal paper that initiated a number of efforts to increase reproducibility and support open science (e.g. the [COS](https://centerforopenscience.org/))
 

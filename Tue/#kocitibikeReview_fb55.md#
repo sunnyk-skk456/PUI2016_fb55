@@ -1,0 +1,11 @@
+## Cikibike Null Hypothesis project review
+
+The null hypoythesi is not formulated correctly for the question. The question is about correlation, which is a term with a very precise meaning in science. The meaning is that if the independent variable grows the dependent variable grows as well. Nevatige correlation is the opposite: iv grows dv gets smaller.
+
+If you want to keep the hypothesis as it is the question has to be;
+#Question: Is sthe average number of 24-hour Citibike passes purchased during the weekend more than during the  weekdays?
+
+The proper test to compare the means of two samples is the t-test.
+
+
+The data supports the question but you still have a long way to go in the ata munging (group by day of the qeek vs weekend, get the mean number of passes in the two groups and the standard deviation)
